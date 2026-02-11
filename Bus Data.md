@@ -1,3 +1,4 @@
+## Bus Data
 | Bus | Type|Voltage (pu)|Phase (deg)|Active Power (P)|Reactive Power (Q)|
 |-|-|-|-|-|-|
 | Bus 1| Swing (Slack)|1.040|0.00|76.4 MW|27.5 MVAr|
@@ -9,3 +10,8 @@
 | Bus  7| PQ (Load)|1.025| 33.33| 0.0 MW (Net)|0.0 MVAr (Net)|
 | Bus  8| PQ (Load)|1.015| 30.25| -100.0 MW|-35.0 MVAr|
 | Bus  9| PQ (Load)|1.032| 31.55| 0.0 MW (Net)|0.0 MVAr (Net)|
+
+## Loads:
+* Load A (at Bus 5): 125 MW, 50 MVAr.
+* Load B (at Bus 6): 90 MW, 30 MVAr.
+* Load C (at Bus 8): 100 MW, 35 MVAr.
