@@ -38,3 +38,34 @@ Only features meeting the defined criteria in both stages shall be eligible for 
 
 ---
 
+## ▶ Procedure to Run the Validated Codebase
+
+1. The repository shall be cloned onto the target local machine prior to execution.
+
+2. The required dependencies shall be installed, namely:
+   - `numpy`
+   - `Flask`
+   - `flask-cors`
+
+   - **Windows environments** shall execute:
+     ```bash
+     pip install Flask flask-cors numpy
+     ```
+
+   - **macOS environments** shall execute:
+     ```bash
+     pip3 install Flask flask-cors numpy
+     ```
+3. The user shall navigate, via the terminal, to the **Working** directory and initiate the application as follows:
+
+   - **Windows environments** shall execute:
+     ```bash
+     python app.py
+     ```
+
+   - **macOS environments** shall execute:
+     ```bash
+     python3 app.py
+     ```
+
+4. Upon successful launch, the service shall be accessed by entering the following address into a web browser: [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
