@@ -37,3 +37,4 @@ Only features meeting the defined criteria in both stages shall be eligible for 
 | 3 | **LICENSE** | This file shall define the legal terms governing the use, modification, and distribution of the repository under the MIT License. It establishes the permissions granted to users and the limitations of liability and warranty applicable to the authors. |
 
 ---
+
