@@ -34,5 +34,6 @@ Only features meeting the defined criteria in both stages shall be eligible for 
 |-----|------|--------------------|
 | 1 | **Bus Data.md** | This file shall serve as the authoritative reference for bus and load data associated with the IEEE 9-Bus system, presented in a concise and tabulated form for consistent reuse across the repository. |
 | 2 | **FYP Dump.pdf** | This document shall preserve the collected background material, literature insights, and preliminary investigations assembled prior to the formal commencement of this project. |
+| 3 | **LICENSE** | This file shall define the legal terms governing the use, modification, and distribution of the repository under the MIT License. It establishes the permissions granted to users and the limitations of liability and warranty applicable to the authors. |
 
 ---
