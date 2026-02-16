@@ -267,7 +267,7 @@ class PowerSystemSolver:
 solver=PowerSystemSolver()
 
 @app.route("/")
-def home(): return render_template("index_def.html")
+def home(): return render_template("index.html")
 
 @app.route("/api/solve",methods=["POST"])
 def solve():
